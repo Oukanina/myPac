@@ -135,6 +135,7 @@ var domains = {
   "shiksha.com": 1, 
   "bigfools.com": 1, 
   "itasoftware.com": 1, 
+  "packagecontrol.io": 1,
   "googlesource.com": 1, 
   "freedomcollection.org": 1, 
   "hacker.org": 1, 
