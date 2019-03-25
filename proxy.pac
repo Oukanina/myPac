@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:1138";
 
 var domains = {
+  "cdnb.artstation.com": 1,
   "www.artstation.com": 1,
   "4shared.com": 1, 
   "galstars.net": 1, 
